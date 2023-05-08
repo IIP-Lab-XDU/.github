@@ -6,7 +6,7 @@ The homepage of our Lab is https://iip-xdu.github.io/.
 
 西安电子科技大学，[智能信息处理实验室 IIP Lab.](https://iip-xdu.github.io/)，负责人：王楠楠 教授
 
-🧙 We mainly apply machine learning techniques to computer vision problems. Our research interests include credible/explainable artificial intelliegence (XAI) and AI gneerated content (AIGC). 
+🧙 We mainly apply machine learning techniques to computer vision problems. Our research interests include credible/explainable artificial intelliegence (XAI) and AI generated content (AIGC). 
 
 
 <!--
