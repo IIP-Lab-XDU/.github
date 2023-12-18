@@ -9,6 +9,8 @@ The homepage of our Lab is https://iip-xdu.github.io/.
 🧙 We mainly apply machine learning techniques to computer vision problems. Our research interests include credible/explainable artificial intelliegence (XAI) and AI generated content (AIGC). 
 
 
+![](https://github.com/IIP-Lab-XDU/iip-logo/blob/main/iip_black_h.png)
+
 <!--
 
 **Here are some ideas to get you started:**
